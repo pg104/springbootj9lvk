@@ -1,0 +1,4 @@
+# Project exclude paths
+/src/main/resources/admin/admin/dist/
+/src/main/resources/admin/admin/node_modules/
+/target/
